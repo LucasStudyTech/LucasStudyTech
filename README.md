@@ -25,5 +25,5 @@ No mundo do desenvolvimento de software, encontrei meu lugar para explorar, cria
 
 Se você está interessado em projetos criativos e em aprender mais sobre como a tecnologia pode moldar nosso mundo, sinta-se à vontade para me acompanhar nesta jornada. Juntos, podemos construir o futuro digital!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasStudyTech&theme=dracula&hide_border=falso&border_radius=4&card_width=496)](https://git.io/LucasStudyTech)
+
 
